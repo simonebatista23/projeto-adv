@@ -61,8 +61,6 @@
     text-decoration: underline;
   }
   
-  
-  
   header img {
     width: 100%;
     height: 100%;
@@ -90,7 +88,7 @@
     margin-bottom: 2rem;
   }
   
-  section h3, h4 {
+  section h3{
     color: var(--dark-red);
     margin-bottom: 2rem;
   }
