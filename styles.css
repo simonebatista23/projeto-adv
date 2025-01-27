@@ -93,8 +93,8 @@
     margin-bottom: 2rem;
   }
   .especialidade1, .especialidade2 {
-    color: var(--dark-red);
-    font-weight: 700;
+   
+    font-weight: 900;
   }
   
   .container.container-adv p{
